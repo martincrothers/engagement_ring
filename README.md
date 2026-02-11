@@ -16,13 +16,13 @@ A workable 3D design (STL file) for a ring with these properties. (I will have i
 - Just above the butterflies small accent stones, under 2mm, round. I have 2 different heirloom diamonds which are very small. I forgot to get these measured for you, will try to this evening (Wednesday, February 11, eastern US time).
 
 
-## Reference Photos
+## Reference Photos (Click on for full size)
 
 Example of a band:<br/>
-<img src="images/band_example.jpg" alt="Band Shape" style="width:50%; height:auto;">   
+<img src="images/band_example.jpg" alt="Band Shape" style="width:50%; height:auto;">
 
-Eastern Tiger Swallowtail Butterfly (female):
-![](images/Easter-Tiger-Swallowtail-butterfly-female.png)
+Eastern Tiger Swallowtail Butterfly (female):<br/>
+<img src="images/Easter-Tiger-Swallowtail-butterfly-female.png" alt=" A Female Eastern Tiger Swallowtail" style="width:50%; height:auto;">   
 
 
 butterflies a bit like this: https://www.etsy.com/listing/814644398/handmade-gold-plated-silver-9ct-solid
