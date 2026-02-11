@@ -18,7 +18,7 @@ A workable 3D design (STL file) for a ring with these properties. (I will have i
 
 ## Reference Photos
 
-Example of a band:
+Example of a band:<br/>
 <img src="images/band_example.jpg" alt="Band Shape" style="width:50%; height:auto;">   
 
 Eastern Tiger Swallowtail Butterfly (female):
