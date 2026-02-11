@@ -1,10 +1,11 @@
 # Engagement Ring Design
 
 ## Description
-A workable 3D design (STL file) for a ring with these properties. (I will have it printed and manufactured at a jeweler local to me)
+I am looking to have a workable 3D design (STL file) created for a ring with these properties. (I will have it 3D printed and manufactured at a jeweler local to me)
 
 I have a drawing below [Design that I drew](#Design-that-I-drew) which is the general concept of what I'm looking for.
 
+### Details
 - Size 5½
 - European Shank
 - Low profile/low set (avoid snagging)
@@ -32,7 +33,6 @@ I have a drawing below [Design that I drew](#Design-that-I-drew) which is the ge
 
 
 ## Reference Photos (Click on for full size)
-
 ### Example of a band she liked
 <img src="images/band_example.jpg" alt="Band Shape" style="width:50%; height:auto;">
 
@@ -42,7 +42,6 @@ Dimensions of a ring that she tried on and found comfortable (ignore the size 6,
 ### Eastern Tiger Swallowtail Butterfly (female)
 <img src="images/Easter-Tiger-Swallowtail-butterfly-female.png" alt=" A Female Eastern Tiger Swallowtail" style="width:50%; height:auto;">   
 This is the species and gender of butterfly to model into the ring. I expect that the details of the wing notches would not work well in such small form, so simplifying is OK.
-
 
 ### Design that I drew
 This doesn't have to be perfectly replicated, it is more of a guide to demonstrate what I was thinking in general layout.
