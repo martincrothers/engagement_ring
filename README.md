@@ -3,6 +3,8 @@
 ## Description
 A workable 3D design (STL file) for a ring with these properties. (I will have it printed and manufactured at a jeweler local to me)
 
+I have a drawing below (
+
 - Size 5½
 - European Shank
 - Low profile/low set (avoid snagging)
@@ -42,7 +44,7 @@ Eastern Tiger Swallowtail Butterfly (female):<br/>
 This is the species and gender of butterfly to model into the ring. I expect that the details of the wing notches would not work well in such small form, so simplifying is OK.
 
 
-Design that I drew:<br/>
+### Design that I drew
 <img src="images/ring_diagram.jpg" alt="Design" style="width:50%; height:auto;">
 
 Sketch 1:<br/>
