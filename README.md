@@ -48,9 +48,5 @@ This is the species and gender of butterfly to model into the ring. I expect tha
 This doesn't have to be perfectly replicated, it is more of a guide to demonstrate what I was thinking in general layout.
 <img src="images/ring_diagram.jpg" alt="Design" style="width:50%; height:auto;">
 
-### Sketches
-Sketch 1:<br/>
+### Sketch
 <img src="images/ring_sketch1.jpg" alt="Sketch 1" style="width:50%; height:auto;">
-
-Sketch 2:<br/>
-<img src="images/ring_sketch2.jpg" alt="Sketch 2" style="width:50%; height:auto;">
