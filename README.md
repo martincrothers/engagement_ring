@@ -3,6 +3,7 @@
 ## Description
 A workable 3D design (STL file) for a ring with these properties. (I will have it printed and manufactured at a jeweler local to me)
 
+- Size 5½
 - European Shank
 - Low profile/low set (avoid snagging)
 - Solitaire stone:
