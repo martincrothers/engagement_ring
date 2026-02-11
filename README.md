@@ -45,6 +45,7 @@ This is the species and gender of butterfly to model into the ring. I expect tha
 
 ### Design that I drew
 This doesn't have to be perfectly replicated, it is more of a guide to demonstrate what I was thinking in general layout.
+
 <img src="images/ring_diagram.jpg" alt="Design" style="width:50%; height:auto;">
 
 ### Sketch
