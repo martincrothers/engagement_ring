@@ -7,7 +7,7 @@ A workable 3D design (STL file) for a ring with these properties. (I will have i
 - European Shank
 - Low profile/low set (avoid snagging)
 - Solitaire stone:
-  - 3/4ct princess cut
+  - 3/4ct princess cut<br/>
     would also like variations with:
       - 1ct princess
       - 3/4ct square cushion
