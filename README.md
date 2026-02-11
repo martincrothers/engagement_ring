@@ -6,11 +6,18 @@ A workable 3D design (STL file) for a ring with these properties. (I will have i
 - European Shank
 - Low profile/low set (avoid snagging)
 - Solitaire stone:
-  - 3/4ct princess cut (variations with 1ct princess, 3/4ct square cushion, and 1ct square cushion)
+  - 3/4ct princess cut
+    - would also like variations with:
+      - 1ct princess
+        - 3/4ct square cushion
+        - 1ct square cushion
   - north/south set
 - Butterflies (see reference photos below):
   - Formed into the band itself, raised out as a relief (not a second part soldered on).
   - The relief should have some shape to it, with the tips of the winds being higher than where they connect to the body. The body and head section should also have some dimension/relief to them as well.
+    - Examples of what I mean by having dimension/relief. Would like the tips of the wings to raise up slightly, making the overall effect bowl shape
+    - [Etsy Earrings 1](https://www.etsy.com/listing/8846368750
+    - [Etsy Earrings 2](https://www.etsy.com/listing/814644398)
   - Ascending the band toward the solitaire, one on each side.
   - The shape of the butterflies should resemble, as closely as possible at this size, the **Eastern Tiger Swallowtail Butterfly (female)** species.
 - Peakaboo diamonds:
@@ -31,6 +38,14 @@ Dimensions of a ring that she tried on and found comfortable (ignore the size 6,
 
 Eastern Tiger Swallowtail Butterfly (female):<br/>
 <img src="images/Easter-Tiger-Swallowtail-butterfly-female.png" alt=" A Female Eastern Tiger Swallowtail" style="width:50%; height:auto;">   
+This is the species and gender of butterfly to model into the ring. I expect that the details of the wing notches would not work well in such small form, so simplifying is OK.
 
 
-butterflies a bit like this: https://www.etsy.com/listing/814644398/handmade-gold-plated-silver-9ct-solid
+Design that I drew:<br/>
+<img src="images/ring_diagram.jpg" alt="Design" style="width:50%; height:auto;">
+
+Sketch 1:<br/>
+<img src="images/ring_sketch1.jpg" alt="Sketch 1" style="width:50%; height:auto;">
+
+Sketch 2:<br/>
+<img src="images/ring_sketch2.jpg" alt="Sketch 2" style="width:50%; height:auto;">
