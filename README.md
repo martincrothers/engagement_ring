@@ -3,7 +3,7 @@
 ## Description
 A workable 3D design (STL file) for a ring with these properties. (I will have it printed and manufactured at a jeweler local to me)
 
-I have a drawing below (
+I have a drawing below [Design that I drew](#Design-that-I-drew) which is the general concept of what I'm looking for.
 
 - Size 5½
 - European Shank
