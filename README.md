@@ -20,7 +20,7 @@ I have a drawing below [Design that I drew](#Design-that-I-drew) which is the ge
   - Formed into the band itself, raised out as a relief (not a second part soldered on).
   - The relief should have some shape to it, with the tips of the winds being higher than where they connect to the body. The body and head section should also have some dimension/relief to them as well.
     - Examples of what I mean by having dimension/relief. Would like the tips of the wings to raise up slightly, making the overall effect bowl shape
-    - [Etsy Earrings 1](https://www.etsy.com/listing/8846368750)
+    - [Etsy Earrings 1](https://www.etsy.com/listing/884636875)
     - [Etsy Earrings 2](https://www.etsy.com/listing/814644398)
   - Ascending the band toward the solitaire, one on each side.
   - The shape of the butterflies should resemble, as closely as possible at this size, the **Eastern Tiger Swallowtail Butterfly (female)** species.
