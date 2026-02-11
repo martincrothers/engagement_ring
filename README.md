@@ -21,6 +21,9 @@ A workable 3D design (STL file) for a ring with these properties. (I will have i
 Example of a band:<br/>
 <img src="images/band_example.jpg" alt="Band Shape" style="width:50%; height:auto;">
 
+Band Dimensions that matched a comfortable ring:<br/>
+<img src="images/dimensions.jpg" alt="dimensions" style="width:50%; height:auto;">
+
 Eastern Tiger Swallowtail Butterfly (female):<br/>
 <img src="images/Easter-Tiger-Swallowtail-butterfly-female.png" alt=" A Female Eastern Tiger Swallowtail" style="width:50%; height:auto;">   
 
