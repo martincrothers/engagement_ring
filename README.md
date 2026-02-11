@@ -10,12 +10,12 @@ I have a drawing below [Design that I drew](#Design-that-I-drew) which is the ge
 - European Shank
 - Low profile/low set (avoid snagging)
 - Solitaire stone:
-  - 3/4ct princess cut<br/>
-    would also like variations with:
+  - north/south set
+  - 3/4ct princess cut
+  - I would also like variations with:
       - 1ct princess
       - 3/4ct square cushion
       - 1ct square cushion
-  - north/south set
 - Butterflies (see reference photos below):
   - Formed into the band itself, raised out as a relief (not a second part soldered on).
   - The relief should have some shape to it, with the tips of the winds being higher than where they connect to the body. The body and head section should also have some dimension/relief to them as well.
