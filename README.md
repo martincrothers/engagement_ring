@@ -8,10 +8,10 @@ A workable 3D design (STL file) for a ring with these properties. (I will have i
 - Low profile/low set (avoid snagging)
 - Solitaire stone:
   - 3/4ct princess cut
-    - would also like variations with:
+    would also like variations with:
       - 1ct princess
-        - 3/4ct square cushion
-        - 1ct square cushion
+      - 3/4ct square cushion
+      - 1ct square cushion
   - north/south set
 - Butterflies (see reference photos below):
   - Formed into the band itself, raised out as a relief (not a second part soldered on).
