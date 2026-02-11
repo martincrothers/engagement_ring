@@ -33,20 +33,22 @@ I have a drawing below (
 
 ## Reference Photos (Click on for full size)
 
-Example of a band:<br/>
+### Example of a band she liked
 <img src="images/band_example.jpg" alt="Band Shape" style="width:50%; height:auto;">
 
 Dimensions of a ring that she tried on and found comfortable (ignore the size 6, correct size is 5½):<br/>
 <img src="images/dimensions.jpg" alt="dimensions" style="width:50%; height:auto;">
 
-Eastern Tiger Swallowtail Butterfly (female):<br/>
+### Eastern Tiger Swallowtail Butterfly (female)
 <img src="images/Easter-Tiger-Swallowtail-butterfly-female.png" alt=" A Female Eastern Tiger Swallowtail" style="width:50%; height:auto;">   
 This is the species and gender of butterfly to model into the ring. I expect that the details of the wing notches would not work well in such small form, so simplifying is OK.
 
 
 ### Design that I drew
+This doesn't have to be perfectly replicated, it is more of a guide to demonstrate what I was thinking in general layout.
 <img src="images/ring_diagram.jpg" alt="Design" style="width:50%; height:auto;">
 
+### Sketches
 Sketch 1:<br/>
 <img src="images/ring_sketch1.jpg" alt="Sketch 1" style="width:50%; height:auto;">
 
